@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypto-pagination-project/static/css/main.9e0d4fb2.css",
+    "main.js": "/crypto-pagination-project/static/js/main.ff9c00db.js",
+    "index.html": "/crypto-pagination-project/index.html",
+    "main.9e0d4fb2.css.map": "/crypto-pagination-project/static/css/main.9e0d4fb2.css.map",
+    "main.ff9c00db.js.map": "/crypto-pagination-project/static/js/main.ff9c00db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e0d4fb2.css",
+    "static/js/main.ff9c00db.js"
+  ]
+}
